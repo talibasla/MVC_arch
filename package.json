@@ -1,0 +1,16 @@
+{
+  "name": "mvc-arch",
+  "version": "1.0.0",
+  "description": "\"model view controllers\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Talib\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^19.8.1",
+    "nodemon": "^2.0.22"
+  }
+}
